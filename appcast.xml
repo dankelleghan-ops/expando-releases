@@ -3,6 +3,20 @@
     <channel>
         <title>Expando</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Sun, 01 Nov 2026 11:06:26 -0600</pubDate>
+            <link>https://github.com/dankelleghan-ops/expando-releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando-1.7.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando-1.7.1.dmg" length="3488042" type="application/octet-stream" sparkle:edSignature="/uxuZyLamu4eswcZ2UYa2QwXA38xJ5kcT1reafgmLMoAXgpL/4rE58Rldg9jdxxSy1w2SpxmL6aOyBay2KW7Dw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando14-7.delta" sparkle:deltaFrom="7" length="532810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="msE4Ur80QG71VPgTiBVpzxh6fau9df3e08V/6WGJJIxXJtysyoY712qG0CZGwcsS0BYtGjZNEgIsxEG+pmKlBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Wed, 16 Sep 2026 20:04:00 -0500</pubDate>
             <link>https://github.com/dankelleghan-ops/expando-releases</link>
