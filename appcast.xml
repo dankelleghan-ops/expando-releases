@@ -3,6 +3,21 @@
     <channel>
         <title>Expando</title>
         <item>
+            <title>1.9.2</title>
+            <pubDate>Sun, 08 Nov 2026 13:35:03 -0500</pubDate>
+            <link>https://github.com/dankelleghan-ops/expando-releases</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando-1.9.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando-1.9.2.dmg" length="3575290" type="application/octet-stream" sparkle:edSignature="f74sKpOI05Uubm96Ty2HLnZTUx7inBdWpv9P6YukZ+YvUZ5hNO5qbLVFuJ7rNYLiKfv9E8ukifPvAI2oy63zDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando19-14.delta" sparkle:deltaFrom="14" length="261746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TIx5DWB0Au+AyjpfkPAH2rUm0hfSgyv1eMcquHsQ8MEDFua/L8wqyV4MxlNTbjQwn/Hyk9UP7OMbIEY2nqnuBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/expando-releases/main/downloads/Expando19-7.delta" sparkle:deltaFrom="7" length="602246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ub/e8klulcbLB6LH25kgP5wPv/8lLbyHsl//Gv6pow+OvQ4B+j+X/iPIdVzh6BrBshhLCi7J++Vjk/9iybNTDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Sun, 01 Nov 2026 11:06:26 -0600</pubDate>
             <link>https://github.com/dankelleghan-ops/expando-releases</link>
